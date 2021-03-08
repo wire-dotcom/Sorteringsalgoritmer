@@ -1,0 +1,7 @@
+C:\Users\wire03001\source\repos\ConsoleoleApp5\ConsoleoleApp5\bin\Debug\ConsoleoleApp5.exe.config
+C:\Users\wire03001\source\repos\ConsoleoleApp5\ConsoleoleApp5\bin\Debug\ConsoleoleApp5.exe
+C:\Users\wire03001\source\repos\ConsoleoleApp5\ConsoleoleApp5\bin\Debug\ConsoleoleApp5.pdb
+C:\Users\wire03001\source\repos\ConsoleoleApp5\ConsoleoleApp5\obj\Debug\ConsoleoleApp5.csprojAssemblyReference.cache
+C:\Users\wire03001\source\repos\ConsoleoleApp5\ConsoleoleApp5\obj\Debug\ConsoleoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\wire03001\source\repos\ConsoleoleApp5\ConsoleoleApp5\obj\Debug\ConsoleoleApp5.exe
+C:\Users\wire03001\source\repos\ConsoleoleApp5\ConsoleoleApp5\obj\Debug\ConsoleoleApp5.pdb
